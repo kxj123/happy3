@@ -1,8 +1,0 @@
-https://www.jianshu.com/p/8d124afee893（建议网址）
-1.注意安装各种插件lib文件夹的jar包放在对应apache-jmeter-5.4.1的文件夹位置里
-2.注意输入HOST地址或IP地址和对应的端口号
-3.用jmeter打开.jmx文件时注意jmeter的版本，同时注意要在java的环境下（java的版本）
-jmeter5.4.1与java1.8(java要配置环境，jmeter5.4应该不配置环境也是可以的，也可以打开的)
-4.服务器端要安装serveragent，要启动
-Jmeter请求元件之并发场景设置（https://blog.csdn.net/qq_37908248/article/details/105103307）
-线程数与Ramp-Up时间，即active threads over time与并发数，即单位时间内活动的线程数，（https://www.cnblogs.com/yoyoketang/p/14186611.html）
